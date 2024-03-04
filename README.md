@@ -1,10 +1,9 @@
-<h2 align="left">𝖡𝖾𝗆 𝗏𝗂𝗇𝖽𝗈 𝖺𝗈 𝗆𝖾𝗎 𝗋𝖾𝗉𝗈𝗌𝗂𝗍𝗈́𝗋𝗂𝗈!</h2>
+<h2 align="left">Olá, Victor Smyth aqui 👋🏼</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Victor-Smyth&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Victor-Smyth&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Victor-Smyth&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="140" alt="languages graph"  />
 </div>
 
 ###
