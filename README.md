@@ -2,8 +2,9 @@
 
 ###
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Smyth&theme=tokyonight&hide_border=false&&layout=compact"/>
-
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Smyth&theme=darke&hide_border=false&&layout=compact"/>
+</div>
 ###
 
 <div align="left">
