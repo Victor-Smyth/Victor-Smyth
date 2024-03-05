@@ -1,11 +1,8 @@
 <h2 align="left">Olá, Victor Smyth aqui 👋🏼</h2>
 
-###
-
 <div align="center">
   <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Smyth&theme=dark&hide_border=false"&&layout=compact"/>
 </div>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -27,8 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
-
 <div align="left">
     <a href="https://www.linkedin.com/in/victor-smyth/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -41,8 +36,6 @@
   </a>
 </div>
 
-###
-
 <br clear="both">
 
 <picture>
@@ -50,5 +43,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victor-Smyth/Victor-Smyth/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Victor-Smyth/Victor-Smyth/output/github-contribution-grid-snake.svg">
 </picture>
-
-###
