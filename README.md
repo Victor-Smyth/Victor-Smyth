@@ -1,10 +1,4 @@
-<h2 align="left">Olá, Victor Smyth aqui 👋🏼</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Victor-Smyth&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false" height="140" alt="languages graph"  />
-</div>
+<h2 align="left">Olá, seja bem vindo ao meu perfil! 👋🏼</h2>
 
 ###
 
